@@ -24,7 +24,7 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-MainActivity.java
+// MainActivity.java
 
 package com.example.lab4;
 
